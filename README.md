@@ -13,10 +13,10 @@ Create a class called student with following properties/fields with
 getter setters.
 
 
-`
-Student Name
+
+```Student Name
 Student Age
-Department `
+Department```
 
   Create a StudentDetails class with main method. Create a new
 student object and assign name , age and department. Print out these
@@ -31,9 +31,9 @@ implement this interface and override the methods.
 4.Create a class called Department. It should have 3 constructors.  it
 will have 3 properties/fields deptName, id, location.
 
-1st constructor does not take any arguments.
+```1st constructor does not take any arguments.
 2nd constructor takes dept name and id as parameters.
-3rd constructor takes leapt name , id and location as parameters
+3rd constructor takes leapt name , id and location as parameters```
 
  5.Writing your own exception class
 Now, let’s see how to create a custom exception in action. Here are the steps:
