@@ -32,7 +32,8 @@ will have 3 properties/fields deptName, id, location.
 
 1st constructor does not take any arguments.
 2nd constructor takes dept name and id as parameters.
-3rd constructor takes leapt name , id and location as parameters
+3rd constructor takes leapt name , id and location as parameters 
+Pass the Parameters Values and Print the result
 
  5. Writing your own exception class
 
