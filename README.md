@@ -25,6 +25,7 @@ details with System.out.println().
 3. Create a interface called fruit with 2 methods isSweet and
 isPoisonous. Create 2 classes called Apple and PoisonBerry which
 implement this interface and override the methods.
+Create a Main Method to create objects for apple & PoisonBerry to get the result
 
 
 4. Create a class called Department. It should have 3 constructors.  it
