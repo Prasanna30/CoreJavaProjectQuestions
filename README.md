@@ -8,25 +8,26 @@ number from user and print “Positive” if the number is positive. Or
 throw NegativeNumberExeption if number is negative and
 ZeroNumberException if number is zero.
 
-=================
 2.Encapsulation : Create a package called “com.exam.encapsulation”.
 Create a class called student with following properties/fields with
 getter setters.
 
+
+`
 Student Name
 Student Age
-Department
+Department `
 
-        Create a StudentDetails class with main method. Create a new
+  Create a StudentDetails class with main method. Create a new
 student object and assign name , age and department. Print out these
 details with System.out.println().
 
-====================
+
 3.Create a interface called fruit with 2 methods isSweet and
 isPoisonous. Create 2 classes called Apple and PoisonBerry which
 implement this interface and override the methods.
 
-====================
+
 4.Create a class called Department. It should have 3 constructors.  it
 will have 3 properties/fields deptName, id, location.
 
