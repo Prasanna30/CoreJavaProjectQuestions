@@ -2,12 +2,12 @@
 ```
 1. Create package called “com.exam.exceptions”.
 
-Create 2 custom exceptions  classes called NegativeNumberException and
-ZeroNumberException.
+Create 3 custom exceptions  classes called NumberTooLargeException and
+NumberTooSmallException and ZeroNumberException
 write a class called ExceptionExample with main method. Accept a
-number from user and print “Positive” if the number is positive. Or
-throw NegativeNumberExeption if number is negative and
-ZeroNumberException if number is zero.
+number from user and print “Allocated Memory” if the number is less than or equal to 10000. Or
+throw NumberTooSmallException if number is negative and
+NumberTooLargeException if number is bigger than 10000. and ZeroNumberException if number is zero
 
 2. Encapsulation : Create a package called “com.exam.encapsulation”.
 Create a class called student with following properties/fields with
