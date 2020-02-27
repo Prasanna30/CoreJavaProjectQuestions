@@ -43,3 +43,5 @@ Make the class extends one of the exceptions which are subtypes of the java.lang
 Create a constructor with a String parameter which is the detail message of the exception. In this constructor, simply call the super constructor and pass the message.
 (OR)
 Write a program of Multi catch Exceptional Handling 
+
+6. Write a program which divides two numbers. Create two custom exception classes NumberIsZeroException and NumberTooBigException. When one of the number is zero throw NumberIsZeroException and when one of the number is more than 100 throw NumberTooBigException. Write a method to divide the two numbers. The exception must me thrown from this method and caught in the main class. Print the approprate error messages in the catch blocks.
