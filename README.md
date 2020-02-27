@@ -49,3 +49,7 @@ Create two custom exception classes NumberIsZeroException and NumberTooBigExcept
 When one of the number is zero throw NumberIsZeroException and when one of the number is more than 100 throw NumberTooBigException.
 Write a method to divide the two numbers. The exception must me thrown from this method and caught in the main class.
 Print the approprate error messages in the catch blocks.
+
+7.creating a custom exception class with name AgeDoesnotMatchException.Another class Student contains two private variables name, age and, a parameterized constructor which initializes the instance variables.
+Form the main method we are accepting name and age values from user and initializing Student class by passing the accepted values.
+In the constructor of the Student class we have created an object of the exception AgeDoesnotMatchException and raised the exception (using throws) if the age value is between 17 and 24.  Output : On executing this program, you need to pass name and age values from keyboard. If the given age value id not between 17 and 24 then exception occurs
