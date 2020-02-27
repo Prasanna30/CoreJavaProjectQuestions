@@ -44,4 +44,8 @@ Create a constructor with a String parameter which is the detail message of the 
 (OR)
 Write a program of Multi catch Exceptional Handling 
 
-6. Write a program which divides two numbers. Create two custom exception classes NumberIsZeroException and NumberTooBigException. When one of the number is zero throw NumberIsZeroException and when one of the number is more than 100 throw NumberTooBigException. Write a method to divide the two numbers. The exception must me thrown from this method and caught in the main class. Print the approprate error messages in the catch blocks.
+6. Write a program which divides two numbers. 
+Create two custom exception classes NumberIsZeroException and NumberTooBigException. 
+When one of the number is zero throw NumberIsZeroException and when one of the number is more than 100 throw NumberTooBigException.
+Write a method to divide the two numbers. The exception must me thrown from this method and caught in the main class.
+Print the approprate error messages in the catch blocks.
